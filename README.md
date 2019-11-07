@@ -1,2 +1,1 @@
-# handw-digit-classi-jupyter
-Handwritten digit classifier 
+# Handwritten digits classifier in a Jupyter Notebook
